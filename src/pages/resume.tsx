@@ -27,7 +27,7 @@ const Resume: NextPage<ResumeProps> = ({ resume }: ResumeProps) => {
         <title>박선미 - 이력서 및 경력기술서</title>
         <meta
           name="description"
-          content="리스크 매니지먼트 대응 경험과 모든 영역 홍보 능력을 보유한 PR Manager 박선미 입니다."
+          content="뛰어난 커뮤니케이션 능력과 우수한 기획력/글쓰기 능력을 보유한 PR Manager 박선미 입니다."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>

@@ -19,7 +19,7 @@ export default function Home() {
         <title>Seonmi Park :: PR Manager</title>
         <meta
           name="description"
-          content="리스크 매니지먼트 대응 경험과 모든 영역 홍보 능력을 보유한 PR Manager 박선미 입니다."
+          content="뛰어난 커뮤니케이션 능력과 우수한 기획력/글쓰기 능력을 보유한 PR Manager 박선미 입니다."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
@@ -28,7 +28,7 @@ export default function Home() {
         picture="/profile.jpg"
         chatBubble="Hi, I'm Seonmi 👋"
         title="PR Manager"
-        subTitle="리스크 매니지먼트 대응 경험과 모든 영역 홍보 능력을 보유"
+        subTitle="뛰어난 커뮤니케이션 능력과 우수한 기획력/글쓰기 능력 보유"
         downloadUrl="https://amorfatiseon.github.io/resume"
       />
       <About />
@@ -278,6 +278,20 @@ export default function Home() {
                   홈플러스 사내모델
                 </a>
               </li>
+            </ul>
+          </li>
+          <li>
+            리포터
+            <ul>
+              <li>국민체육진흥공단 경륜경정</li>
+              <ul>
+                <li>
+                  🔗{' '}
+                  <a href="https://www.youtube.com/watch?v=iUSnIy6phW0">
+                    박선미 리포터, 경륜 심판이 되다
+                  </a>
+                </li>
+              </ul>
             </ul>
           </li>
         </ul>
